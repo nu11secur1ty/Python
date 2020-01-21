@@ -107,16 +107,8 @@ Therefore, if you want to call ``num2words`` with a fallback, you can do::
         return num2words(42, lang=mylang)
     except NotImplementedError:
         return num2words(42, lang='en')
-
-Additionally, some converters and languages support other optional arguments
-that are needed to make the converter useful in practice.
-
-Wiki
-----
-For additional information on some localization please check the Wiki_.
-And feel free to propose wiki enhancement.
-
-.. _Wiki: https://github.com/savoirfairelinux/num2words/wiki
+        https://pypi.org/project/num2words/
+-------------------------------------------------------------------------------------
 
 # Module
 `https://pypi.org/project/num2words/`

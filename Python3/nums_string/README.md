@@ -114,5 +114,8 @@ And feel free to propose wiki enhancement.
 
 .. _Wiki: https://github.com/savoirfairelinux/num2words/wiki
 
+# Module
+`https://pypi.org/project/num2words/`
+
 # Manual script: 
 ![Link](https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md)

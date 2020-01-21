@@ -151,20 +151,6 @@ num2words
 
 
 
-# Usage
-
-```bash
-python3.4 nums_string.py PT
-```
-# Question for thr number
-
-```bash
-Give a number
-15
-```
-# Output on Portugalian
-
-```bash
-fifteen fifteenth quinze
-```
+Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
+-----https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 

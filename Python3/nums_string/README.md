@@ -5,7 +5,11 @@ Installation
 The easiest way to install ``num2words`` is to use pip::
 
     pip install num2words
-
+    pip3 install num2words
+    pip3.4 install num2words
+    pip3.7 install num2words
+    ...
+    
 Otherwise, you can download the source package and then execute::
 
     python setup.py install

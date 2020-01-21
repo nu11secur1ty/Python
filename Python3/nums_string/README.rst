@@ -30,7 +30,7 @@ The easiest way to install ``num2words`` is to use pip::
 Otherwise, you can download the source package and then execute::
 
     python setup.py install
-
+https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 The test suite in this library is new, so it's rather thin, but it can be run with::
 
     python setup.py test
@@ -45,7 +45,7 @@ Usage
 Command line::
 
     $ num2words 10001
-    ten thousand and one
+    ten thousand and onehttps://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
     $ num2words 24,120.10
     twenty-four thousand, one hundred and twenty point one
     $ num2words 24,120.10 -l es
@@ -144,12 +144,11 @@ can't be reached. There was another developer, Marius Grigaitis, who in 2011
 added Lithuanian support, but didn't take over maintenance of the project.
 
 I am thus basing myself on Marius Grigaitis' improvements and re-publishing
-``pynum2word`` as ``num2words``.
+``pynum2word`` as ``num2words``.https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 
-Virgil Dupras, Savoir-faire Linux
+Virgil Dupras, Savoir-faire Linuxhttps://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 num2words
 
-
-..Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
+Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 
 

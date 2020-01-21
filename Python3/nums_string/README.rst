@@ -134,21 +134,3 @@ For additional information on some localization please check the Wiki_.
 And feel free to propose wiki enhancement.
 
 .. _Wiki: https://github.com/savoirfairelinux/num2words/wiki
-
-History
--------
-
-``num2words`` is based on an old library, ``pynum2word``, created by Taro Ogawa
-in 2003. Unfortunately, the library stopped being maintained and the author
-can't be reached. There was another developer, Marius Grigaitis, who in 2011
-added Lithuanian support, but didn't take over maintenance of the project.
-
-I am thus basing myself on Marius Grigaitis' improvements and re-publishing
-``pynum2word`` as ``num2words``.https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
-
-Virgil Dupras, Savoir-faire Linuxhttps://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
-num2words
-
-Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
-
-

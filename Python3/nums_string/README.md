@@ -67,7 +67,7 @@ Besides the numerical argument, there are two main optional arguments.
 * ``eu`` (EURO)
 * ``fi`` (Finnish)
 * ``fr`` (French)
-* ``fr_CH`` (French - Switzerland)
+* ``fr_CH`` (French - Switzerland)https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 * ``fr_BE`` (French - Belgium)
 * ``fr_DZ`` (French - Algeria)
 * ``he`` (Hebrew)
@@ -78,7 +78,7 @@ Besides the numerical argument, there are two main optional arguments.
 * ``ko`` (Korean)
 * ``kz`` (Kazakh)
 * ``lt`` (Lithuanian)
-* ``lv`` (Latvian)
+* ``lv`` (Latvian)https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 * ``no`` (Norwegian)
 * ``pl`` (Polish)
 * ``pt`` (Portuguese)
@@ -106,7 +106,7 @@ Therefore, if you want to call ``num2words`` with a fallback, you can do::
 
 Additionally, some converters and languages support other optional arguments
 that are needed to make the converter useful in practice.
-
+https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 Wiki
 ----
 For additional information on some localization please check the Wiki_.
@@ -115,4 +115,4 @@ And feel free to propose wiki enhancement.
 .. _Wiki: https://github.com/savoirfairelinux/num2words/wiki
 
 # Manual script: 
-![Link]()
+![Link](https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md)

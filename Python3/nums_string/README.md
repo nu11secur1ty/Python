@@ -1,24 +1,3 @@
-num2words - Convert numbers to words in multiple languages
-==========================================================
-
-.. image:: https://img.shields.io/pypi/v/num2words.svg
-   :target: https://pypi.python.org/pypi/num2words
-
-.. image:: https://travis-ci.org/savoirfairelinux/num2words.svg?branch=master
-    :target: https://travis-ci.org/savoirfairelinux/num2words
-
-.. image:: https://coveralls.io/repos/github/savoirfairelinux/num2words/badge.svg?branch=master
-    :target: https://coveralls.io/github/savoirfairelinux/num2words?branch=master
-
-
-``num2words`` is a library that converts numbers like ``42`` to words like ``forty-two``.
-It supports multiple languages (see the list below for full list
-of languages) and can even generate ordinal numbers like ``forty-second``
-(although this last feature is a bit buggy for some languages at the moment).
-
-The project is hosted on GitHub_. Contributions are welcome.
-
-.. _GitHub: https://github.com/savoirfairelinux/num2words
 
 Installation
 ------------
@@ -135,16 +114,5 @@ And feel free to propose wiki enhancement.
 
 .. _Wiki: https://github.com/savoirfairelinux/num2words/wiki
 
-History
--------
-
-``num2words`` is based on an old library, ``pynum2word``, created by Taro Ogawa
-in 2003. Unfortunately, the library stopped being maintained and the author
-can't be reached. There was another developer, Marius Grigaitis, who in 2011
-added Lithuanian support, but didn't take over maintenance of the project.
-
-I am thus basing myself on Marius Grigaitis' improvements and re-publishing
-``pynum2word`` as ``num2words``.
-
-Virgil Dupras, Savoir-faire Linux
-https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.mdhttps://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
+# Manual script: 
+![Link]()

@@ -149,9 +149,10 @@ I am thus basing myself on Marius Grigaitis' improvements and re-publishing
 Virgil Dupras, Savoir-faire Linux
 num2words
 
--------------------------------------------------------------------------------------
+
 
 # Usage
+
 ```bash
 python3.4 nums_string.py PT
 ```

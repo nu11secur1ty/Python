@@ -150,6 +150,6 @@ Virgil Dupras, Savoir-faire Linux
 num2words
 
 
-.. Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
+..Usage: https://github.com/nu11secur1ty/Python/blob/master/Python3/nums_string/USAGE.md
 
 

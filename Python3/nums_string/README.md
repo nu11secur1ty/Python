@@ -88,7 +88,7 @@ Besides the numerical argument, there are two main optional arguments.
 * ``ro`` (Romanian)
 * ``ru`` (Russian)
 * ``te`` (Telugu)
-* ``tr`` (Turkish)
+* ``tr`` (Turkish) - Without manual script
 * ``th`` (Thai)
 * ``vi`` (Vietnamese)
 * ``nl`` (Dutch)

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import requests
 
 # Step 1) Find the public IP of the user. This is easier said that done, look into the library Netifaces if you're
@@ -15,6 +16,7 @@ geo_request_url = 'https://get.geojs.io/v1/ip/geo/' + my_ip + '.json'
 geo_request = requests.get(geo_request_url)
 geo_data = geo_request.json()
 print(geo_data)
+
 # {
 # "area_code": "0",
 # "continent_code": "NA",
@@ -27,6 +29,7 @@ print(geo_data)
 # "organization": "AS15169 Google Inc.",
 # "timezone": ""
 # }  This is a fake example I grabbed from the GeoJS website
+
 def display_ip():
     """  Function To Print GeoIP Latitude & Longitude """
     ip_request = requests.get('https://get.geojs.io/v1/ip.json')

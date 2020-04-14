@@ -1,0 +1,6 @@
+Finding Buffer Overflows
+The next obvious question is – “Well how do I find out where a buffer overflow is?”. The primary answer for that is what’s called fuzzing, that being sending custom strings of varying length and content to each input we wish to test. If the program correctly handles the range of strings we send it then another command is tested, if the program crashes we investigate why it crashed and if the crash is exploitable or not. At this point it’s time to load up PCMan’s FTP Server 2.0.7 on your Windows XP machine, and we can write a custom fuzzer to test inputs and see if we can find an exploit within the program. To install you should be able to simply unzip the program and double click on the server and we’re up and running. If any firewall prompts are made, ensure you unblock it so we have access to the server.
+
+The first command used on an FTP is the “USER ” command, followed by a “PASS ” variable. Since this is the first command to be used we may as well test this first. It has the added bonus of being before any authentication takes place, so if a bug is found it’s an even more powerful exploit as credentials aren’t needed.
+
+Below is a simple highly commented fuzzer written to test the server in Python.

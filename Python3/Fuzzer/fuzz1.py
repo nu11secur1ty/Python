@@ -1,5 +1,4 @@
-<import modules> # most likely will be socket, sys, but if its a web service you might import httplib, urllib, etc.
- 
+#!/usr/bin/python 
 # Set up remote IP/Port variables
 # Invoke the script: ./script.py <RHOST> <RPORT>
 RHOST = sys.argv[1]

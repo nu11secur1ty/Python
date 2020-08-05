@@ -54,3 +54,10 @@ city_population = {"New York City": 8550405,
                    "Boston": 667137,
                    "Bulgaria": 12342347}
 print(city_population["Bulgaria"])
+print("\n")
+
+
+print("### User input\n")
+kuvsitive = input("Enter kuvsitive:")
+print("Ti si: " + kuvsitive)
+print("\n")

@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# by @nu11secur1ty
 # Sending emails with attachments using Python  
 
 # libraries to be imported 

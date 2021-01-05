@@ -63,4 +63,4 @@ message = msg.as_string()
 email.sendmail(fromaddr, toaddr, message) 
 
 # terminating the session 
-s.quit() 
+email.quit() 

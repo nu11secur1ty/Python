@@ -1,6 +1,12 @@
 #!/usr/bin/python
 # Binary string to be converted
-binary_string = "01110000 01111001 01110100 01101000 01101111 01101110"
+# nu11secur1ty
+
+binary_string = "01101110\
+ 01100001 00100000 01101101 01100001 01101001\
+  01101011 01100001 00100000 01110110 01101001\
+   00100000 01110000 01110101 01110100 01101011\
+    01100001 01110100 01100001"
 # split the above stirng using split() method by white space
 binary_values = binary_string.split()
 ascii_string = ""

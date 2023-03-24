@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def my_function(fname):
   print(fname + "1")
 
